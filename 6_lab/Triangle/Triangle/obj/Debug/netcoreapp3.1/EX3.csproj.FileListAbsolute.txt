@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\bin\Debug\netcoreapp3.1\EX3.exe
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\bin\Debug\netcoreapp3.1\EX3.deps.json
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\bin\Debug\netcoreapp3.1\EX3.runtimeconfig.json
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\bin\Debug\netcoreapp3.1\EX3.runtimeconfig.dev.json
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\bin\Debug\netcoreapp3.1\EX3.dll
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\bin\Debug\netcoreapp3.1\EX3.pdb
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\obj\Debug\netcoreapp3.1\EX3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\obj\Debug\netcoreapp3.1\EX3.AssemblyInfo.cs
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\obj\Debug\netcoreapp3.1\EX3.dll
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\obj\Debug\netcoreapp3.1\EX3.pdb
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\6_lab\Triangle\Triangle\obj\Debug\netcoreapp3.1\EX3.csprojAssemblyReference.cache
