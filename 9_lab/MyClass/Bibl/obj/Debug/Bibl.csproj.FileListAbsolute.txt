@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\9_lab\MyClass\Bibl\obj\Debug\Bibl.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\9_lab\MyClass\Bibl\obj\Debug\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\9_lab\MyClass\Bibl\bin\Debug\Bibl.dll
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\9_lab\MyClass\Bibl\bin\Debug\Bibl.pdb
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\9_lab\MyClass\Bibl\obj\Debug\Bibl.dll
+C:\Users\User\Desktop\ВАЖНО\2 семестр\Технологии программирования\9_lab\MyClass\Bibl\obj\Debug\Bibl.pdb

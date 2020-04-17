@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Audit.cs" />
+    <Compile Remove="Book.cs" />
+    <Compile Remove="Interface1.cs" />
+    <Compile Remove="IPr.cs" />
+    <Compile Remove="IPubs.cs" />
+    <Compile Remove="Item.cs" />
+    <Compile Remove="Magazine.cs" />
+    <Compile Remove="Publisher.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bibl\Bibl.csproj" />
+  </ItemGroup>
+
+</Project>
